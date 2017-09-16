@@ -166,6 +166,10 @@ h6 {
 	padding-top: 20px;
 }
 
+#portfolio-content > div:last-child {
+	padding-bottom: 10px;
+}
+
 .portfolio-row {
 	position: relative;
 	width: 100%;
