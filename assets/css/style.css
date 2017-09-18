@@ -42,9 +42,8 @@ body {
 	margin: auto;
 }
 
-/*
-HEADER RULES
-*/
+
+/*  HEADER RULES  */
 #main-header {
 	height: 90px;
 	width: 100%;
@@ -85,13 +84,9 @@ h1, h2, h3 {
 	border-right: 1px solid #dddddd;
 	border-left: 1px solid #dddddd;
 }
-/*
-END HEADER RULES
-*/
 
-/*
-MAIN CONTENT RULES
-*/
+
+/*  MAIN CONTENT SECTION RULES  */
 .wrapper {
 	width: 960px;
 	margin: auto;
@@ -115,13 +110,9 @@ MAIN CONTENT RULES
 	margin-bottom: 20px;
 	border-bottom: 3px solid #dddddd;
 }
-/*
-END MAIN CONTENT RULES
-*/
 
-/* 
-CONNECT WITH ME SECTION RULES
-*/
+
+/*  CONNECT WITH ME SECTION RULES  */
 #profile-links-wrapper {
 	padding: 30px;
 	width: 270px;
@@ -148,13 +139,9 @@ CONNECT WITH ME SECTION RULES
 #link-logo {
 	margin: 0px 11px;
 }
-/* 
-END CONNECT WITH ME SECTION RULES
-*/
 
-/*
-FOOTER RULES
-*/
+
+/*  FOOTER RULES  */
 footer {
 	height: 94px;
 	width: 100%;
@@ -173,14 +160,9 @@ footer {
 	line-height: 94px;
 	margin: 0;
 }
-/*
-END FOOTER RULES
-*/
 
 
-/**
-* About Page CSS
-**/
+/*  ABOUT PAGE RULES  */
 #bio-img {
 	margin: 10px 25px 10px 0px;
 }
@@ -190,9 +172,7 @@ END FOOTER RULES
 }
 
 
-/**
-* Portfolio CSS
-**/
+/*  PORTFOLIO PAGE RULES  */
 #portfolio-content > div:first-child {
 	padding-top: 20px;
 }
@@ -205,10 +185,6 @@ END FOOTER RULES
 	position: relative;
 	width: 100%;
 	padding-bottom: 56px;
-}
-
-.portfolio-row > div {
-	float: left;
 }
 
 .portfolio-row img {
@@ -233,10 +209,7 @@ END FOOTER RULES
 }
 
 
-
-/**
-* Contact CSS
-**/
+/*  CONTACT PAGE RULES  */
 #contact-name,
 #contact-email,
 #contact-message {
