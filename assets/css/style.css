@@ -95,18 +95,6 @@ h1, h2, h3 {
 	border-bottom: 3px solid #dddddd;
 }
 
-/*
-#profile-links {
-	float: left;
-	width: 270px;
-	background-color: #ffffff;
-	border: 1px solid #dddddd;
-	box-sizing: border-box;
-	position: absolute;
-	right: 0;
-}
-*/
-
 #profile-links-wrapper {
 	padding: 30px;
 	float: left;
@@ -127,8 +115,9 @@ h1, h2, h3 {
 	border-bottom: 2px solid #dddddd;
 }
 
-#profile-links-wrapper div {
-	display: inline-block;
+#profile-links-wrapper > div {
+	display: block;
+	float: left;
 }
 
 #profile-links-wrapper img {
@@ -138,7 +127,7 @@ h1, h2, h3 {
 }
 
 #link-logo {
-	margin: 0px 6px;
+	margin: 0px 11px;
 }
 
 footer {
