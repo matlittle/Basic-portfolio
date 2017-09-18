@@ -89,7 +89,6 @@ h1, h2, h3 {
 /*  MAIN CONTENT SECTION RULES  */
 .wrapper {
 	width: 960px;
-	margin: auto;
 	position: relative;
 	flex: 1 0 auto;
 }
