@@ -41,18 +41,10 @@ body {
 .auto-margin {
 	margin: auto;
 }
+
 /*
 HEADER RULES
 */
-header {
-	height: 90px;
-	width: 100%;
-	min-width: 960px;
-	line-height: 90px;
-	margin-bottom: 38px;
-	border-bottom: 2px solid #cccccc;
-}
-
 #main-header {
 	height: 90px;
 	width: 100%;
