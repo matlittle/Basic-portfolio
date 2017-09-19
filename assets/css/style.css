@@ -164,6 +164,8 @@ footer {
 /*  ABOUT PAGE RULES  */
 #bio-img {
 	margin: 10px 25px 10px 0px;
+	height: 150px;
+	width: 200px;
 }
 
 #bio-text {
@@ -188,6 +190,8 @@ footer {
 
 .portfolio-row img {
 	display: block;
+	width: 274px;
+	height: 205px;
 }
 
 .portfolio-row > div:nth-child(1) {
