@@ -97,10 +97,7 @@ h1, h2, h3 {
 	width: 650px; 
 	border: 1px solid #dddddd;
 	box-sizing: border-box;
-}
-
-#content-wrapper {
-	margin: 30px;
+	padding: 30px;
 }
 
 #content-head {
